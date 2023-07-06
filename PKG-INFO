@@ -1,3 +1,26 @@
+Metadata-Version: 2.1
+Name: tokenize_rt
+Version: 4.2.1
+Summary: A wrapper around the stdlib `tokenize` which roundtrips.
+Home-page: https://github.com/asottile/tokenize-rt
+Author: Anthony Sottile
+Author-email: asottile@umich.edu
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.1
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 [![Build Status](https://dev.azure.com/asottile/asottile/_apis/build/status/asottile.tokenize-rt?branchName=master)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=25&branchName=master)
 [![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/asottile/asottile/25/master.svg)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=25&branchName=master)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/asottile/tokenize-rt/master.svg)](https://results.pre-commit.ci/latest/github/asottile/tokenize-rt/master)
@@ -111,3 +134,5 @@ find the indices of the string parts of a (joined) string literal
 - https://github.com/asottile/future-fstrings
 - https://github.com/asottile/pyupgrade
 - https://github.com/asottile/yesqa
+
+

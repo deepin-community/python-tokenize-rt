@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-tokenize-rt (4.2.1-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload
+  * Source-only reupload
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Bastian Germann <bage@debian.org>  Sat, 09 Apr 2022 00:08:26 +0200
+
+python-tokenize-rt (4.2.1-1) unstable; urgency=low
+
+  * Initial release. Closes: #1006278
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Tue, 22 Feb 2022 17:27:23 +0000
