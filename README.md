@@ -1,6 +1,5 @@
-[![Build Status](https://dev.azure.com/asottile/asottile/_apis/build/status/asottile.tokenize-rt?branchName=master)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=25&branchName=master)
-[![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/asottile/asottile/25/master.svg)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=25&branchName=master)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/asottile/tokenize-rt/master.svg)](https://results.pre-commit.ci/latest/github/asottile/tokenize-rt/master)
+[![build status](https://github.com/asottile/tokenize-rt/actions/workflows/main.yml/badge.svg)](https://github.com/asottile/tokenize-rt/actions/workflows/main.yml)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/asottile/tokenize-rt/main.svg)](https://results.pre-commit.ci/latest/github/asottile/tokenize-rt/main)
 
 tokenize-rt
 ===========
@@ -15,7 +14,9 @@ python tokenization.
 
 ## Installation
 
-`pip install tokenize-rt`
+```bash
+pip install tokenize-rt
+```
 
 ## Usage
 
