@@ -1,7 +1,7 @@
 Rules-Requires-Root: no
-Standards-Version: 4.6.0.1
-Build-Depends: debhelper-compat (= 13), dh-sequence-python3, python3-all, python3-setuptools
-Testsuite: autopkgtest-pkg-python
+Standards-Version: 4.7.0
+Build-Depends: debhelper-compat (= 13), dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-setuptools, python3-pytest
+Testsuite: autopkgtest-pkg-pybuild
 Source: python-tokenize-rt
 Maintainer: Debian Python Team <team+python@tracker.debian.org>
 Uploaders: Jelmer Vernooĳ <jelmer@debian.org>
